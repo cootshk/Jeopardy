@@ -22,7 +22,7 @@ class gameboard:
             except:
                 self.board[question["Category"].strip().title()] = [question]
 
-    def print_board(self) -> str:
+    def print_board(self, *, color:bool=True) -> str:
         output = c.g
         for category in self.board:
             output += "###"
@@ -40,19 +40,15 @@ class gameboard:
                 output += "#"
             output += "##"
         output += f"#{c.w}\n"
-        if __debug__:
-            print(self.board)
         #display questions
         i = 0
         for category in self.board:
             pass
             i += 1
+        if not color:
+            output = output.replace(c.w,"").replace(c.g,"").replace(c.b,"")
         return output
-    def view_square(self, category: int | str, question: int) -> str:
-        pass
-    def answer_square(self, category: int | str, question: int, answer: str) -> bool:
-        pass
-        #get the category
+    def get_category(self,category: int | str):
         if isinstance(category,int):
             pass
         elif isinstance(category,str):
@@ -73,6 +69,16 @@ class gameboard:
                 category = i
         else:
             raise TypeError("The category input should be either the # or the name of the category")
+    def get_question(self,category: int | str, question: int | str) -> str: 
+        pass
+    def view_square(self, category: int | str, question: int) -> str:
+        category = self.get_category(category)
+        question = int(question)
+        
+    def answer_square(self, category: int | str, question: int, answer: str) -> bool:
+        pass
+        #get the category
+        category = self.get_category(category)
         question = int(question)
         if answer.startswith():
             pass

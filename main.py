@@ -1,8 +1,4 @@
-import json
 from pcolors import colors as c  #, backgrounds as b
-
-with open("Answers.json", "r") as f:
-    musclequestions = json.load(f)
 
 
 class gameboard:
@@ -78,10 +74,14 @@ class gameboard:
         else:
             raise TypeError("The category input should be either the # or the name of the category")
         question = int(question)
-        if answer.startswith()
+        if answer.startswith():
+            pass
 
 
 if __name__ == "__main__":
+    import json
+    with open("Answers.json", "r") as f:
+        musclequestions = json.load(f)
     board = gameboard(musclequestions)
     #while True:
     #game loop

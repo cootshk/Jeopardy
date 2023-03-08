@@ -1,0 +1,50 @@
+[
+    {
+        "Question": "  two muscles at the elbow joint that work together ",
+        "Answer": "biceps and triceps",
+        "Points": 100,
+        "Category": " names of muscles upperbody"
+    },
+    {
+        "Question": "these two muscles contract and relax in the chest area",
+        "Answer": "pectorals and trapezius",
+        "Points": 200,
+        "Category": " names of muscles upperbody"
+    },
+    {
+        "Question": "",
+        "Answer": "",
+        "Points": 300,
+        "Category": " names of muscles lowerbody "
+    },
+    {
+        "Question": "characteristic: spindle-shaped, nonstilted, uninudeated fibers",
+        "Answer": "what is Smooth/visceral muscle",
+        "Points": 300,
+        "Category": "muscle types"
+    },
+    {
+        "Question": "disease that causes Progressive weakness and loss muscle mass,as well abnormal genes that interfere with the production of healthy proteins",
+        "Answer": "what is muscular dystrophy ",
+        "Points": 200,
+        "Category": " muscles diseases"
+    },
+    {
+        "Question": "disease that causes potential of disabling the brain and spinal cord, The immune system attacks the protective sheath that covers nerve fibers and causes communication problems between your brain and the rest of your body",
+        "Answer": "what is multiple sclerosis ",
+        "Points": 100,
+        "Category": " muscles diseases"
+    },
+    {
+        "Question": "this disease so progressive disorder of the nervous system that affects movements, this disease commonly causes stiffness or slowing  movements and Will also slow or soften your speech",
+        "Answer": "what is Parkinson's disease",
+        "Points": 400,
+        "Category":  "muscles diseases"
+    },
+    {
+        "Question": "this disorder characterized by widespread musculoskeletal pain accompanied by fatigue, sleep, memory and mood issues, symptoms can begin after physical trauma, surgery, infection or significant psychological stress",
+        "Answer": "what is fibromyalgia ",
+        "Points": 300,
+        "Category": "muscles diseases "
+    }
+]

@@ -12,16 +12,10 @@
         "Category": " names of muscles upperbody"
     },
     {
-        "Question": "",
-        "Answer": "",
+        "Question": "true or false: is the heart a muscle?",
+        "Answer": "true",
         "Points": 300,
-        "Category": " names of muscles lowerbody "
-    },
-    {
-        "Question": "characteristic: spindle-shaped, nonstilted, uninudeated fibers",
-        "Answer": "what is Smooth/visceral muscle",
-        "Points": 300,
-        "Category": "muscle types"
+        "Category": " names of muscles upperbody "
     },
     {
         "Question": "disease that causes Progressive weakness and loss muscle mass,as well abnormal genes that interfere with the production of healthy proteins",
@@ -40,6 +34,60 @@
         "Answer": "what is Parkinson's disease",
         "Points": 400,
         "Category":  "muscles diseases"
+    },
+    {
+        "Question": "muscle found in the shoulder joint",
+        "Answer": "deltoid",
+        "Points": 400,
+        "Category":  "names of muscles upperbody"
+    },
+    {
+        "Question": "two muscles that work together in the leg",
+        "Answer": "quads and hamstrings",
+        "Points": 100,
+        "Category":  "names of muscles lowerbody"
+    },
+    {
+        "Question": "ture or false: do the tibiais and the gastrocnemius work togrther?",
+        "Answer": "true",
+        "Points": 200,
+        "Category":  "names of muscles lowerbody"
+    },
+    {
+        "Question": "muscle in the butt",
+        "Answer": "gluteus maximus",
+        "Points": 300,
+        "Category":  " names of muscles lowerbody"
+    },
+    {
+        "Question": "tendon in the ankle area",
+      "Answer": "achilles tendon",
+        "Points": 400,
+        "Category":  "names of muscles lowerbody"
+    },
+    {
+        "Question": "spindle-shaped, nonstried, uninudeated",
+        "Answer": "smooth/visceral",
+        "Points": 100,
+        "Category":  " muscles types"
+    },
+    {
+        "Question": "true or false: cardiac muscles are voluntary",
+        "Answer": " false",
+        "Points": 200,
+        "Category":  "muscles types"
+    },
+    {
+        "Question": "2 muscles that are involuntary",
+        "Answer": "smooth and cardisc muscles",
+        "Points": 300,
+        "Category":  "  muscles types"
+    },
+    {
+        "Question": "muscle that connects to the skeleton",
+      "Answer": "skeletal muscle",
+        "Points": 400,
+        "Category":  "muscles types"
     },
     {
         "Question": "this disorder characterized by widespread musculoskeletal pain accompanied by fatigue, sleep, memory and mood issues, symptoms can begin after physical trauma, surgery, infection or significant psychological stress",
